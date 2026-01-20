@@ -85,7 +85,5 @@ The application will launch at `http://localhost:5173` (or the port shown in you
 - **Ajay**
 - **Reddy thanuj royaj**
 
-##  License
 
-This project is licensed under the MIT License.
 
